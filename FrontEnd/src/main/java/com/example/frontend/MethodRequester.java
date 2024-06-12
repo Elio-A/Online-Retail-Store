@@ -53,4 +53,5 @@ public class MethodRequester {
         OrderView view = new OrderView();
         view.displayOrders(list.getObject());
     }
+
 }
